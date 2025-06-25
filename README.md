@@ -8,7 +8,7 @@
 4. Set Telegram webhook:
 
 ```
-curl -F "url=https://yourdomain.com/bot.php" https://api.telegram.org/botYOUR_BOT_TOKEN/setWebhook
+curl -F "url=https://yourdomain.com/bot.php" https://api.telegram.org/8065025177:AAFm5GCJ6Jdk15wFo1itKaj1N_In-CFqnyo/setWebhook
 ```
 
 5. Start chatting with your bot on Telegram.
